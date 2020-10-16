@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/lista"
+        android:title="Vezi biblioteci in apropiere">
+
+    </item>
+
+    <item
+        android:id="@+id/c_imprumutate"
+        android:title="Lista carti imprumutate">
+
+    </item>
+
+
+    <item
+        android:id="@+id/despre"
+        android:title="Despre">
+
+    </item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout">
+
+    </item>
+
+</menu>

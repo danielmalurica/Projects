@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="book_categorii">
+        <item>SF</item>
+        <item>Aventura</item>
+        <item>Drama</item>
+    </string-array>
+
+</resources>
